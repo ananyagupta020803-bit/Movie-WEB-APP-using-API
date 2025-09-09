@@ -20,7 +20,7 @@ API Integration - Fetching movie data
 
 Clone the Repository
 
-git clone [(https://github.com/MANAN1352/MovieWebsiteusingAPI.git)]
+git clone https://github.com/ananyagupta020803-bit/Movie-WEB-APP-using-API.git
 
 Open index.html in your browser
 
@@ -36,7 +36,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 📲 Connect with Me
 
-📍 GitHub: [(https://github.com/MANAN1352)]
-📍 LinkedIn: [www.linkedin.com/in/manan-upadhyay-4530b8215]
+📍 GitHub: https://github.com/ananyagupta020803-bit
 
 ⭐ Don't forget to star this repo if you found it useful! ⭐
